@@ -1,0 +1,115 @@
+2023-04-11 00:15:56 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /
+2023-04-11 00:22:21 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /
+2023-04-11 02:34:02 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'id' for method parameter type int is not present]
+2023-04-11 03:00:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2023-04-11 03:00:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2023-04-11 03:00:52 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 19.0.1 on DESKTOP-C59B60P with PID 19164 (C:\Users\94447\Desktop\schord\music-server\target\classes started by 94447 in C:\Users\94447\Desktop\schord)
+2023-04-11 03:00:52 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-11 03:00:52 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-11 03:00:52 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-11 03:00:54 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-11 03:00:54 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-11 03:00:54 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2023-04-11 03:00:55 WARN [com.baomidou.mybatisplus.core.injector.AbstractMethod]: [com.example.yin.mapper.DiscussionMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+2023-04-11 03:00:55 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-04-11 03:00:55 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2863 ms
+2023-04-11 03:00:56 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-11 03:00:56 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-11 03:00:56 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.285 seconds (JVM running for 6.114)
+2023-04-11 03:03:12 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-11 03:03:12 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-04-11 03:03:13 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-11 03:03:13 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-11 03:11:46 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for POST /user/avatar/update
+2023-04-11 03:12:22 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for POST /user/avatar/update
+2023-04-11 03:13:25 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for POST /user/avatar/update
+2023-04-11 03:14:15 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2023-04-11 03:14:15 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2023-04-11 03:14:20 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 19.0.1 on DESKTOP-C59B60P with PID 25084 (C:\Users\94447\Desktop\schord\music-server\target\classes started by 94447 in C:\Users\94447\Desktop\schord)
+2023-04-11 03:14:20 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-11 03:14:20 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-11 03:14:20 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-11 03:14:20 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-11 03:14:20 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-11 03:14:20 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2023-04-11 03:14:21 WARN [com.baomidou.mybatisplus.core.injector.AbstractMethod]: [com.example.yin.mapper.DiscussionMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+2023-04-11 03:14:22 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-04-11 03:14:22 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2024 ms
+2023-04-11 03:14:22 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-11 03:14:22 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-11 03:14:22 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 3.105 seconds (JVM running for 3.902)
+2023-04-11 03:14:41 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-11 03:14:41 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-04-11 03:14:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-11 03:14:42 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-11 11:04:44 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 19.0.1 on DESKTOP-C59B60P with PID 11476 (C:\Users\94447\Desktop\schord\music-server\target\classes started by 94447 in C:\Users\94447\Desktop\schord)
+2023-04-11 11:04:44 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-11 11:04:44 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-11 11:04:44 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-11 11:04:45 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-11 11:04:45 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-11 11:04:45 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2023-04-11 11:04:46 WARN [com.baomidou.mybatisplus.core.injector.AbstractMethod]: [com.example.yin.mapper.DiscussionMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+2023-04-11 11:04:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-04-11 11:04:46 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2003 ms
+2023-04-11 11:04:47 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-11 11:04:47 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-11 11:04:47 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 3.129 seconds (JVM running for 5.607)
+2023-04-11 11:07:07 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-11 11:07:07 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-04-11 11:07:07 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-11 11:07:07 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-11 11:23:41 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 19.0.1 on DESKTOP-C59B60P with PID 6060 (C:\Users\94447\Desktop\schord\music-server\target\classes started by 94447 in C:\Users\94447\Desktop\schord)
+2023-04-11 11:23:41 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-11 11:23:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-11 11:23:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-11 11:23:44 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-11 11:23:44 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-11 11:23:44 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 34 ms. Found 0 Redis repository interfaces.
+2023-04-11 11:23:45 WARN [com.baomidou.mybatisplus.core.injector.AbstractMethod]: [com.example.yin.mapper.DiscussionMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+2023-04-11 11:23:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-04-11 11:23:46 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 5306 ms
+2023-04-11 11:23:48 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-11 11:23:48 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-11 11:23:48 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 7.935 seconds (JVM running for 13.772)
+2023-04-11 11:25:13 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-11 11:25:13 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-04-11 11:25:14 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-11 11:25:14 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-11 16:19:30 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 19.0.1 on DESKTOP-C59B60P with PID 13188 (C:\Users\94447\Desktop\schord\music-server\target\classes started by 94447 in C:\Users\94447\Desktop\schord)
+2023-04-11 16:19:30 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-11 16:19:30 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-11 16:19:30 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-11 16:19:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-11 16:19:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-11 16:19:32 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2023-04-11 16:19:33 WARN [com.baomidou.mybatisplus.core.injector.AbstractMethod]: [com.example.yin.mapper.DiscussionMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+2023-04-11 16:19:33 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-04-11 16:19:33 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3064 ms
+2023-04-11 16:19:34 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-11 16:19:34 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-11 16:19:34 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.644 seconds (JVM running for 5.887)
+2023-04-11 16:23:52 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-04-11 16:23:52 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 2 ms
+2023-04-11 16:23:52 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-04-11 16:23:53 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-04-11 17:01:15 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-11 17:01:15 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-11 17:01:15 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-11 17:01:16 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-11 17:01:18 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-11 17:01:31 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-11 17:05:47 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2023-04-11 23:59:43 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 19.0.1 on DESKTOP-C59B60P with PID 2980 (C:\Users\94447\Desktop\schord\music-server\target\classes started by 94447 in C:\Users\94447\Desktop\schord)
+2023-04-11 23:59:43 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-04-11 23:59:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-11 23:59:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-11 23:59:45 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-04-11 23:59:45 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-11 23:59:45 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+2023-04-11 23:59:47 WARN [com.baomidou.mybatisplus.core.injector.AbstractMethod]: [com.example.yin.mapper.DiscussionMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]
+2023-04-11 23:59:48 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-04-11 23:59:48 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 4448 ms
+2023-04-11 23:59:49 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-04-11 23:59:49 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-11 23:59:49 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 7.221 seconds (JVM running for 8.876)
